@@ -1,0 +1,39 @@
+# INFO: number of testcases:           4
+# INFO: DONE WITH RESETING DUT
+# INFO: ######## Running Test: 1 ########
+# INFO: Reading memory file: ../inputs/input6/test1_B.dat
+# INFO: Reading memory file: ../inputs/input6/test1_A.dat
+# INFO: reading ../inputs/output6/test1_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 1, Result:  100.00
+# INFO: ######## Running Test: 2 ########
+# INFO: Reading memory file: ../inputs/input6/test2_B.dat
+# INFO: Reading memory file: ../inputs/input6/test2_A.dat
+# INFO: reading ../inputs/output6/test2_C.dat
+# INFO: Number of cases        : 4
+# INFO: Number of passed cases : 4
+# INFO: presentage passed     :  100.00
+# INFO: Test: 2, Result:  100.00
+# INFO: ######## Running Test: 3 ########
+# INFO: Reading memory file: ../inputs/input6/test3_B.dat
+# INFO: Reading memory file: ../inputs/input6/test3_A.dat
+# INFO: reading ../inputs/output6/test3_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 3, Result:  100.00
+# INFO: ######## Running Test: 4 ########
+# INFO: Reading memory file: ../inputs/input6/test4_B.dat
+# INFO: Reading memory file: ../inputs/input6/test4_A.dat
+# INFO: reading ../inputs/output6/test4_C.dat
+# INFO: Number of cases        : 16
+# INFO: Number of passed cases : 16
+# INFO: presentage passed     :  100.00
+# INFO: Test: 4, Result:  100.00
+# INFO: Total number of cases  : 24
+# INFO: Total number of passes : 24
+# INFO: Finial Results         : 100.00
+# INFO: Finial Time Result     : 26010 ns
+# INFO: Finial Cycle Result    : 2601 cycles

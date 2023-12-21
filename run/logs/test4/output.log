@@ -1,0 +1,107 @@
+Reading pref.tcl
+
+# 2021.2
+
+# vsim -c -voptargs="+acc" tb_top "+TIMEOUT=1000000000" "+num_of_testcases=7" "+epsilon_mult=3.0" "+input_dir=../inputs/input4" "+output_dir=../inputs/output4" -do "run -all" 
+# Start time: 23:08:05 on Nov 27,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# //  ModelSim SE 2021.2 Apr 14 2021 Linux 3.10.0-1160.105.1.el7.x86_64
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb_top(fast)
+# Loading work.sram(fast)
+# Loading work.sram(fast__1)
+# Loading work.sram(fast__2)
+# Loading work.sram(fast__3)
+# Loading work.MyDesign(fast)
+# Loading work.DW_fp_mac_inst(fast)
+# Loading work.DW_fp_mac(fast)
+# Loading work.DW_fp_dp2(fast)
+# run -all
+# INFO: number of testcases:           7
+# +CLASS+464
+# INFO: DONE WITH RESETING DUT
+# INFO: ######## Running Test: 1 ########
+# INFO: Reading memory file: ../inputs/input4/test1_B.dat
+# INFO: Reading memory file: ../inputs/input4/test1_A.dat
+# INFO: reading ../inputs/output4/test1_C.dat
+# INFO: Number of cases        : 8
+# INFO: Number of passed cases : 8
+# INFO: presentage passed     :  100.00
+# INFO: Test: 1, Result:  100.00
+# 
+# INFO: ######## Running Test: 2 ########
+# INFO: Reading memory file: ../inputs/input4/test2_B.dat
+# INFO: Reading memory file: ../inputs/input4/test2_A.dat
+# INFO: reading ../inputs/output4/test2_C.dat
+# INFO: Number of cases        : 4
+# INFO: Number of passed cases : 4
+# INFO: presentage passed     :  100.00
+# INFO: Test: 2, Result:  100.00
+# 
+# INFO: ######## Running Test: 3 ########
+# INFO: Reading memory file: ../inputs/input4/test3_B.dat
+# INFO: Reading memory file: ../inputs/input4/test3_A.dat
+# INFO: reading ../inputs/output4/test3_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 3, Result:  100.00
+# 
+# INFO: ######## Running Test: 4 ########
+# INFO: Reading memory file: ../inputs/input4/test4_B.dat
+# INFO: Reading memory file: ../inputs/input4/test4_A.dat
+# INFO: reading ../inputs/output4/test4_C.dat
+# INFO: Number of cases        : 16
+# INFO: Number of passed cases : 16
+# INFO: presentage passed     :  100.00
+# INFO: Test: 4, Result:  100.00
+# 
+# INFO: ######## Running Test: 5 ########
+# INFO: Reading memory file: ../inputs/input4/test5_B.dat
+# INFO: Reading memory file: ../inputs/input4/test5_A.dat
+# INFO: reading ../inputs/output4/test5_C.dat
+# INFO: Number of cases        : 16
+# INFO: Number of passed cases : 16
+# INFO: presentage passed     :  100.00
+# INFO: Test: 5, Result:  100.00
+# 
+# INFO: ######## Running Test: 6 ########
+# INFO: Reading memory file: ../inputs/input4/test6_B.dat
+# INFO: Reading memory file: ../inputs/input4/test6_A.dat
+# INFO: reading ../inputs/output4/test6_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 6, Result:  100.00
+# 
+# INFO: ######## Running Test: 7 ########
+# INFO: Reading memory file: ../inputs/input4/test7_B.dat
+# INFO: Reading memory file: ../inputs/input4/test7_A.dat
+# INFO: reading ../inputs/output4/test7_C.dat
+# INFO: Number of cases        : 8
+# INFO: Number of passed cases : 8
+# INFO: presentage passed     :  100.00
+# INFO: Test: 7, Result:  100.00
+# 
+# INFO: Total number of cases  : 56
+# INFO: Total number of passes : 56
+# INFO: Finial Results         : 100.00
+# INFO: Finial Time Result     : 49500 ns
+# INFO: Finial Cycle Result    : 4950 cycles
+# 
+# ** Note: $finish    : ../testbench/testbench.sv(354)
+#    Time: 50240 ns  Iteration: 1  Instance: /tb_top
+# End time: 23:08:06 on Nov 27,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

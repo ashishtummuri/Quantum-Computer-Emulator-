@@ -1,0 +1,63 @@
+# INFO: number of testcases:           7
+# INFO: DONE WITH RESETING DUT
+# INFO: ######## Running Test: 1 ########
+# INFO: Reading memory file: ../inputs/input4/test1_B.dat
+# INFO: Reading memory file: ../inputs/input4/test1_A.dat
+# INFO: reading ../inputs/output4/test1_C.dat
+# INFO: Number of cases        : 8
+# INFO: Number of passed cases : 8
+# INFO: presentage passed     :  100.00
+# INFO: Test: 1, Result:  100.00
+# INFO: ######## Running Test: 2 ########
+# INFO: Reading memory file: ../inputs/input4/test2_B.dat
+# INFO: Reading memory file: ../inputs/input4/test2_A.dat
+# INFO: reading ../inputs/output4/test2_C.dat
+# INFO: Number of cases        : 4
+# INFO: Number of passed cases : 4
+# INFO: presentage passed     :  100.00
+# INFO: Test: 2, Result:  100.00
+# INFO: ######## Running Test: 3 ########
+# INFO: Reading memory file: ../inputs/input4/test3_B.dat
+# INFO: Reading memory file: ../inputs/input4/test3_A.dat
+# INFO: reading ../inputs/output4/test3_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 3, Result:  100.00
+# INFO: ######## Running Test: 4 ########
+# INFO: Reading memory file: ../inputs/input4/test4_B.dat
+# INFO: Reading memory file: ../inputs/input4/test4_A.dat
+# INFO: reading ../inputs/output4/test4_C.dat
+# INFO: Number of cases        : 16
+# INFO: Number of passed cases : 16
+# INFO: presentage passed     :  100.00
+# INFO: Test: 4, Result:  100.00
+# INFO: ######## Running Test: 5 ########
+# INFO: Reading memory file: ../inputs/input4/test5_B.dat
+# INFO: Reading memory file: ../inputs/input4/test5_A.dat
+# INFO: reading ../inputs/output4/test5_C.dat
+# INFO: Number of cases        : 16
+# INFO: Number of passed cases : 16
+# INFO: presentage passed     :  100.00
+# INFO: Test: 5, Result:  100.00
+# INFO: ######## Running Test: 6 ########
+# INFO: Reading memory file: ../inputs/input4/test6_B.dat
+# INFO: Reading memory file: ../inputs/input4/test6_A.dat
+# INFO: reading ../inputs/output4/test6_C.dat
+# INFO: Number of cases        : 2
+# INFO: Number of passed cases : 2
+# INFO: presentage passed     :  100.00
+# INFO: Test: 6, Result:  100.00
+# INFO: ######## Running Test: 7 ########
+# INFO: Reading memory file: ../inputs/input4/test7_B.dat
+# INFO: Reading memory file: ../inputs/input4/test7_A.dat
+# INFO: reading ../inputs/output4/test7_C.dat
+# INFO: Number of cases        : 8
+# INFO: Number of passed cases : 8
+# INFO: presentage passed     :  100.00
+# INFO: Test: 7, Result:  100.00
+# INFO: Total number of cases  : 56
+# INFO: Total number of passes : 56
+# INFO: Finial Results         : 100.00
+# INFO: Finial Time Result     : 49500 ns
+# INFO: Finial Cycle Result    : 4950 cycles
